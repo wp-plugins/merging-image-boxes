@@ -21,7 +21,7 @@ Links: [Author Homepage](http://www.graphicedit.com/)
 1. Upload `/Merging Image Boxes/` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Setup 'Merging Image Boxes Options' Page
-4. Place the shortcode [imb]  in your content
+4. Place the shortcode [mib]  in your content
 
 == Frequently Asked Questions ==
 
