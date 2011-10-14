@@ -1,4 +1,4 @@
-=== merging-image-boxes ===
+=== Merging Image Boxes ===
 
 Contributors: graphicedit
 Donate link: http://www.graphicedit.com/
