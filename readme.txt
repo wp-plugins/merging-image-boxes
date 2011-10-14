@@ -29,7 +29,7 @@ Links: [Author Homepage](http://www.graphicedit.com/)
 == Screenshots ==
 1. Options Page.
 2. First State.
-3. seconf State.  
+3. Second State.  
 
 == Upgrade Notice ==
 
