@@ -3,7 +3,7 @@
 Plugin Name: Merging Image Boxes
 Plugin URI: http://wordpress.org/extend/plugins/merging-image-boxes/
 Description: Merging Image Boxes
-Version: 1.0.0
+Version: 1.0.1
 Author: GraphicEdit
 Author URI: http://www.graphicedit.com/
 
