@@ -24,7 +24,7 @@ Links: [Author Homepage](http://www.graphicedit.com/)
 4. Place the shortcode [mib]  in your content
 
 == Frequently Asked Questions ==
-
+not yet
 
 == Screenshots ==
 1. Options Page.
@@ -32,7 +32,7 @@ Links: [Author Homepage](http://www.graphicedit.com/)
 3. Second State.  
 
 == Upgrade Notice ==
-
+not yet
 
 == Changelog ==
 
