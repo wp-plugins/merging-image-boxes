@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Merging Image Boxes
-Plugin URI: http://wordpress.org/extend/plugins/merging-image-boxes/
+Plugin URI: http://graphicedit.com/blog/plugin/merging-image-boxes/
 Description: Merging Image Boxes
 Version: 1.0.1
 Author: GraphicEdit
